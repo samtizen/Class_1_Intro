@@ -1,4 +1,5 @@
-<p><a href="https://github.com/samtizen/Class_1_Intro/blob/master/README.md">EN-English</a> | RU-Русский | <a href="https://github.com/samtizen/Class_1_Intro/blob/master/README-ES.md"">ES-Español</a></p>
+<p><a href="https://github.com/samtizen/Class_1_Intro/blob/master/README.md">EN-English</a> | RU-Русский | <a href="https://github.com/samtizen/Class_1_Intro/blob/master/README-ES.md">ES-Español</a></p>
+
 # Введение в платформу Tizen
 
 <p>Tizen – ориентированная на мобильные устройства платформа, включающая Linux ядро, набор сервисов и API.</p>
