@@ -1,4 +1,4 @@
-<p><a href="EN">EN-English</a> | <a href="RU">RU-Русский</a> | <a href="ES">ES-Español</a></p>
+<p>EN-English | <a href="https://github.com/samtizen/Class_1_Intro/blob/master/README-RU.md">RU-Русский</a> | <a href="https://github.com/samtizen/Class_1_Intro/blob/master/README-ES.md">ES-Español</a></p>
 
 <a name="EN"></a>
 # Introduction To Tizen Platform
